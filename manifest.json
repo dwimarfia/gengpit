@@ -1,0 +1,38 @@
+{
+  "name": "TopUp Game Termurah",
+  "short_name": "GengPit",
+  "start_url": "https://www.gengpit.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#009688",
+  "description": "GengPit.com merupakan website untuk pembelian top up game via Whatsapp dengan lancar tanpa registrasi ataupun log-in, dan proses pengiriman 5 menit.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s48/gengpit.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s72/gengpit.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s96/gengpit.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s144/gengpit.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s168/gengpit.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s192/gengpit.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-iWNyCHf0NRM/XSOGT7yXruI/AAAAAAAAMg0/ZhhPnMhpMJU60xXHYak-VtlhLeG8BKRlACLcBGAs/s512/gengpit.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
